@@ -1,7 +1,7 @@
 ---
 title: How To Improve the macOS Dock
 tags: [macOS]
-style: fill
+style: border
 color: info
 description: These four “clean code” tips will dramatically improve your engineering team’s productivity
 ---
