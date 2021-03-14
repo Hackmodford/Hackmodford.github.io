@@ -2,7 +2,7 @@
 title: How To Improve the macOS Dock
 tags: [macOS]
 style: border
-color: info
+color: primary
 description: You shouldn't need to wait for the dock.
 ---
 

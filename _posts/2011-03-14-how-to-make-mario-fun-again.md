@@ -2,7 +2,7 @@
 title: How To Make Mario Fun Again!
 tags: [nes, mario, emulators, nintendo]
 style: border
-color: info
+color: primary
 description: Breath some fresh air into those classic games.
 ---
 

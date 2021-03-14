@@ -2,7 +2,7 @@
 title: How To Join Multiple Gapless Audio Files
 tags: [audiodrama, iTunes, audio]
 style: border
-color: info
+color: primary
 description: Ever needed to to combine gapless audio tracks into one file?
 ---
 
