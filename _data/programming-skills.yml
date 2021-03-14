@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: C#
   percentage: 90
-  color: danger
+  color: 
 
-- name: Go
-  percentage: 80
+- name: Java
+  percentage: 90
+  color: 
+
+- name: Swift
+  percentage: 75
+  color:
+  
+- name: Kotlin
+  percentage: 66
   color:
 
-- name: Python
-  percentage: 70
-  color: dark
+- name: Objective-C
+  percentage: 75
+  color:
