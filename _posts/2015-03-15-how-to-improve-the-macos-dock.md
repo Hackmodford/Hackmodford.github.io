@@ -3,7 +3,7 @@ title: How To Improve the macOS Dock
 tags: [macOS]
 style: border
 color: info
-description: These four “clean code” tips will dramatically improve your engineering team’s productivity
+description: You shouldn't need to wait for the dock.
 ---
 
 Screen space on a laptop comes at a high premium. On macOS one of the most important interface elements is the Dock. Unfortunately it’s in the way more times than not. If you’re like me, you might have tried hiding the dock but eventually switch back because of how long it takes for the dock to re-appear when the mouse is at the edge of the screen.
