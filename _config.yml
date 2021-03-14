@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : C. Brandon Butler
-description         : >-
-                      I make mobile apps.
+description         : "Don't Panic. I make mobile apps. Will play ukulele for meditation purposes."
 baseurl             : ""
 repository          : Hackmodford/Hackmodford.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
