@@ -3,7 +3,7 @@ title               : C. Brandon Butler
 description         : "Don't Panic. I make mobile apps. Will play ukulele for meditation purposes."
 baseurl             : ""
 repository          : Hackmodford/Hackmodford.github.io
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : Hackmodford/portfolYOU
 
 
 ### Plugins ###
