@@ -6,7 +6,7 @@ color: primary
 description: Breath some fresh air into those classic games.
 ---
 
-Okay, I know mario is fun even though it’s like 20 years old now. But you have to admit, once you’ve played the old games enough you practically have the levels memorized. Atleast the first few.
+Okay, I know mario is fun even though it’s like 20 years old now. But you have to admit, once you’ve played the old games enough you practically have the levels memorized. At least the first few.
 
 My brother in law came up with this awesome idea. Basically using an emulator you flip the screen horizontally. You also have to flip the left and right buttons around on your keyboard/controller.
 
