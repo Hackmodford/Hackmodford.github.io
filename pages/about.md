@@ -9,8 +9,7 @@ weight: 3
 
 Hi, I am **{{ site.author.name }}** :wave:,<br>
 
-As a self taught, then college educated, mobile developer, I started creating native projects but am now 
-exploring cross platform development with Xamarin. I have the ability to learn 
+As a self taught, then college educated, mobile developer, I started creating native projects but now work with Xamarin, MAUI, and Flutter. I have the ability to learn 
 new tools quickly. When I am not making apps, I am trying to learn new programming 
 techniques.
 
