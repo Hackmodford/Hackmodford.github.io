@@ -3,7 +3,7 @@
 
 mastadon:
   url   : https://mstdn.social/@
-  icon  : fab fa-mastadon
+  icon  : fab fa-mastodon
   color : 5A46DB
   rel   : me
   
