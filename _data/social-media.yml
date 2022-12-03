@@ -5,6 +5,7 @@ mastadon:
   url:  : https://mstdn.social
   icon  : fab fa-mastadon
   color : 5A46DB
+  rel   : me
   
 behance:
   url   : https://www.behance.net/
