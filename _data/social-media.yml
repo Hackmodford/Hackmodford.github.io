@@ -2,7 +2,7 @@
 # Get Colors from : https://brandcolors.net/
 
 mastadon:
-  url   : https://mstdn.social/@
+  url   : https://mastodon.social/@
   icon  : fab fa-mastodon
   color : 5A46DB
   rel   : me
